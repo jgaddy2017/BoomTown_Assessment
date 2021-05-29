@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+
+.pageDescriptionDiv{
+    width: 80%;
+    margin-right:10%;
+    margin-left:10%;
+    margin-top: 30px;
+
+    border: black solid 3px;
+    border-radius: 5px;
+}
+
+
+
+.pageDescriptionPara{
+    text-align: center;
+}
+
+

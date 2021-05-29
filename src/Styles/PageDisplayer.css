@@ -1,0 +1,26 @@
+*{
+    box-sizing: border-box;
+}
+
+.pageDisplayerContainer{
+    text-align: center;
+    display: inline-block;
+    width: 100%
+}
+
+
+.buttonContainer{
+    text-align: center;
+    display: inline-block;
+    width: 33.3%;
+}
+
+
+.buttonStyle{
+    width: 100%;
+    height: 40px;
+}
+
+
+
+
